@@ -55,7 +55,8 @@ streamlit run src/chatbot.py
 ```
 
 ---
-
+## Preview
+![App Screenshot](preview.png)
 ## Demo
 
 Check the demo video here:
